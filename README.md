@@ -24,7 +24,7 @@ Usually this is a container for the element you're dragging. The touch won't alw
 
 **axis**  
 A string denoting the axis for build-in movement. Defaults to "xy" (both axis).  
-Valid values: "**x**", "**y**", "**xy**", or **""** (an empty String) for manual mode.  
+Valid values: **"x"**, **"y"**, **"xy"**, or **""** (an empty String) for manual mode.  
 In manual mode no movement is automated; you do whatever you gotta do using the callback function.
 
 ### Examples:
